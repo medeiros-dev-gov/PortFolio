@@ -143,19 +143,19 @@ section div button:hover {
 }
 
 .card h5 {
-    color: #ffffff;
+    color: #259de2;
     font-size: 24px;
 }
 
 .card p {
-    color: #e6b0c1;
+    color: #ffffffe3;
     margin-top: 30px;
     margin-bottom: 40px;
 }
 
 .card a {
     background-color: #f9004d;
-    color: #ffffff;
+    color: #fafaff;
     padding: 10px 20px;
     border-radius: 25px;
     cursor: pointer;
@@ -206,7 +206,7 @@ footer p {
 }
 
 .social a {
-    background-color: #b22d2d;
+    background-color: #f9004d;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -224,13 +224,11 @@ footer p {
 body.body1 {
     font-family: 'Josefin Sans', sans-serif;
     height: 100vh;
-    margin: 10px;
+    margin: 400px;
     margin-top: 70px;
     background-color: #191919;
-    background-image: url(img/background.png);
     background-size: cover;
     background-position: center;
-
 }
 
 .contatos {
