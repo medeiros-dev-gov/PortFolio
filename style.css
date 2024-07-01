@@ -124,9 +124,13 @@ section div button:hover {
 }
 
 .projetos h2 {
-    color: white;
+    color: rgb(53, 198, 255);
     font-size: 40px;
     text-align: center;
+}
+
+.projetos span {
+    color: #f9004d;
 }
 
 .card{
